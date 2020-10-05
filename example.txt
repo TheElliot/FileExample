@@ -1,2 +1,2 @@
-This is a random number: 5
-This is another random number: 63
+This is a random number: 61
+This is another random number: 43
